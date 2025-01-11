@@ -1,0 +1,45 @@
+.hero {
+  background: linear-gradient(
+    90deg,
+    rgba(252, 238, 213, 1) 6%,
+    rgba(252, 238, 213, 1) 75%,
+    rgba(255, 231, 186, 1) 100%
+  );
+}
+.hero-container {
+  background-color: aqua;
+  width: 100%;
+  max-width: 1228px;
+  height: 500px;
+  background-color: aqua;
+  margin: 0 auto;
+  padding: 0px 20px;
+}
+
+.input-container {
+  position: relative;
+}
+.input-container {
+  position: absolute;
+  left: 20px;
+  top: 5px;
+}
+.input-container input {
+  width: 288px;
+  padding-left: 5px 25px;
+}
+.hero {
+  height: 700px;
+  width: 100%;
+  background-color: aqua;
+  padding: 0px 20px;
+  max-width: 1220px;
+}
+.hero-left-container {
+  display: flex;
+  flex: 1;
+}
+.hero-right-container {
+  display: flex;
+  flex: 1;
+}
